@@ -178,7 +178,12 @@ About Us
 
 #agenda{
     background-color:#DDDDDD;
-    
+    padding-bottom: 10px;
+}
+.nav{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 .title-agenda{
     text-align: center;
@@ -197,6 +202,16 @@ About Us
 
 }
 
+
+/****************** team*************************/
+.team-container{
+    padding-top:40px;
+}
+.title-committee{
+    text-align: center;
+    
+    color:#004740;
+}
 
 
 
