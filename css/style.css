@@ -84,7 +84,7 @@ body {
     height: auto;
     position:absolute;
     top:50px;
-    right:209px;
+    right:294px;
 }
 
 /********************
@@ -209,10 +209,135 @@ About Us
 }
 .title-committee{
     text-align: center;
-    
+    font-size:32px;
+    font: weight 700px;
     color:#004740;
 }
+.dummy-prof-container{
+    border: 2px solid #004740 ;
+    border-radius:10px;
+    padding:10px;
+    margin:8px;
+}
+.prof-title{
+    color:#004740;
+    font-size:18px;
+    font-weight: 700;
+    text-align : center;
+}
+.position{
+    font-size:16px;
+    color: #808080;
+    font-weight:500;
+    text-align : center;
+}
+/*************cordination team************/
+.title-coordination{
+    text-align: center;
+    font-size:32px;
+    font: weight 700px;
+    color:#004740;
+}
+#coordinationTeam{
+    background-color:#F4E4C9;
+    
+}
 
+/************* registartion*****************/
+.title-register{
+    text-align: center;
+    font-size:32px;
+    font: weight 700px;
+    color:#004740; 
+}
+.register-title-containeer{
+    padding-top:43px;
+}
+.input-box-bg{
+    background-color: #F6F6F6;
+    ;
+    border: 1px solid #DBDADA ;
+}
+.submit-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.custom-button{
+    background-color: #004740;
+    color:#F4E4C9;
+    border-radius: 8px;
+    border: none;
+    padding:10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+/************** contact ****************/
+.contact-container{
+    font-style: "Poppins";
+    background-color: #007069;
+    color:#ffffff;
+    border-radius: 10px;
+    
+}
+.title-contact{
+    font-style: "Poppins";
+    font-weight: 700;
+    font-size: 28px;
+}
+.paratag{
+    font-style: "Poppins";
+    font-weight: 500;
+    font-size: 20px;
+    margin: 1px;
+}
+.address-container {
+    font-style: "Poppins";
+    background-color: #F4E4C9;
+    color: #525560;
+    ;
+    border-radius: 10px;
+    
+}
+.paratag-address{
+    justify-content: end;
+    padding-top:28px;
+    color:#525560;
+    ;
+    font-weight: 500;
+    font-size: 20px;
+}
+/*************footer****************/
+#footer{
+    background-color:#27282B;
+    
+}
+.dummy-gitam-tagline{
+    font-weight:400;
+    font-size:14px;
+    color:#8C8C8C;
+
+}
+.footer-contact-us{
+    font-size:18px;
+    font-weight: 700;
+}
+.p-text{
+    font-family: "Poppins";
+    font-size:16px;
+    font-weight: 500;
+}
+.social-media-text{
+    font-size:18px;
+    font-weight: 700;
+}
+.copyright-txt{
+    color:#8C8C8C;
+    font-size:14px;
+    font-weight: 400;
+
+}
 
 
 
