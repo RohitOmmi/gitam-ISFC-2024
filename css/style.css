@@ -363,4 +363,15 @@ About Us
     .heading{
         font-size: 24px;
     }
+    .title-container{
+        background-image: linear-gradient(115.22deg, #00453D 33.45%, #007367 100.54%);
+        padding:120px;
+        width: 70%;
+       
+    }
+    .title2-container{
+        background-image:linear-gradient(180deg, #667C80 0%, #D1EFFF 101.16%);
+        width:30%;
+        position: relative;
+    }
 }
